@@ -19,9 +19,6 @@ Welcome to my GitHub profile!
 - System Design
 - English Language
 
-## Looking to Collaborate On
-
-- Open Source Python projects
 
 ## Skills
 
