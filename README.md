@@ -6,8 +6,7 @@ Welcome to my GitHub profile!
 
 - 🌍 **Location:** Odessa, Ukraine
 - 💼 **Role:** Python Developer
-- 🛠️ **Skills:** Python, Django, FastAPI, Docker, PostgreSQL
-- 🎯 **Interests:** Programming, Learning English, Open Source
+- 🎯 **Interests:** Programming, Learning English, Open Source, Gaming
 
 ## Currently Working On
 
