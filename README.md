@@ -1,6 +1,6 @@
-# Hi there, I'm Bronislav Veprintsev 👋
+# Hi there, I'm Bronislav  👋
 
-Welcome to my GitHub profile! I'm a passionate Python Developer from Odessa, Ukraine.
+Welcome to my GitHub profile!
 
 ## About Me
 
