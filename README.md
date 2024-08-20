@@ -1,4 +1,4 @@
-# Hi there, I'm Bronislav Veprintsev 👋
+# Hi there, I'm Bronislav 👋
 
 ```python
 class AboutMe:
