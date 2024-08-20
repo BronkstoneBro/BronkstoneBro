@@ -1,16 +1,36 @@
-## Hi there 👋
+# Bronislav Veprintsev (BronkstoneBro) 👋
 
-<!--
-**BronkstoneBro/BronkstoneBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Bronislav Veprintsev"
+        self.username = "BronkstoneBro"
+        self.location = "Odessa, Ukraine"
+        self.role = "Python Developer"
+        self.skills = ["Django", "FastAPI", "Docker", "PostgreSQL"]
+        self.interests = ["Programming", "Learning English", "Open Source"]
+    
+    def __str__(self):
+        return f"Hello, I'm {self.name}, a passionate {self.role} from {self.location}."
 
-Here are some ideas to get you started:
+    def currently_working_on(self):
+        return "Various Django projects and mastering FastAPI."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def learning(self):
+        return ["Advanced Python", "System Design", "English language"]
+
+    def looking_to_collaborate_on(self):
+        return "Open Source Python projects."
+
+    def ask_me_about(self):
+        return ["Django", "FastAPI", "Docker"]
+
+    def reach_me_at(self):
+        return "https://t.me/bronkstonebro"
+    
+    def fun_fact(self):
+        return "I love solving complex problems as much as I love a good workout at the gym."
+
+me = AboutMe()
+print(me)
+
