@@ -27,9 +27,6 @@ class AboutMe:
 
     def reach_me_at(self):
         return "https://t.me/bronkstonebro"
-    
-    def fun_fact(self):
-        return "I love solving complex problems as much as I love a good workout at the gym."
 
 me = AboutMe()
 print(me)
