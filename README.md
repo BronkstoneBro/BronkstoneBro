@@ -1,38 +1,49 @@
-# Hi there, I'm Bronislav 👋
+# Hi there, I'm Bronislav Veprintsev 👋
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+Welcome to my GitHub profile! I'm a passionate Python Developer from Odessa, Ukraine.
+
+## About Me
+
+- 🌍 **Location:** Odessa, Ukraine
+- 💼 **Role:** Python Developer
+- 🛠️ **Skills:** Python, Django, FastAPI, Docker, PostgreSQL
+- 🎯 **Interests:** Programming, Learning English, Open Source
+
+## Currently Working On
+
+- Various Django projects
+- Mastering FastAPI
+
+## Learning
+
+- Advanced Python
+- System Design
+- English Language
+
+## Looking to Collaborate On
+
+- Open Source Python projects
+
+## Ask Me About
+
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Reach Me At
+
+- [Telegram](https://t.me/bronkstonebro)
 
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Bronislav Veprintsev"
-        self.username = "BronkstoneBro"
-        self.location = "Odessa, Ukraine"
-        self.role = "Python Developer"
-        self.skills = ["Python", "Django", "FastAPI", "Docker", "PostgreSQL"]
-        self.interests = ["Programming", "Learning English", "Open Source"]
+## Projects
 
-    def __str__(self):
-        return f"Hello, I'm {self.name}, a passionate {self.role} from {self.location}."
+Here are some of my projects:
 
-    def currently_working_on(self):
-        return "Various Django projects and mastering FastAPI."
+https://github.com/BronkstoneBro/app_django_shop
 
-    def learning(self):
-        return ["Advanced Python", "System Design", "English Language"]
+Feel free to explore my repositories and check out my latest work!
 
-    def looking_to_collaborate_on(self):
-        return "Open Source Python projects."
+---
 
-    def ask_me_about(self):
-        return ["Django", "FastAPI", "Docker"]
-
-    def reach_me_at(self):
-        return "https://t.me/bronkstonebro"
-
-me = AboutMe()
-print(me)
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
+&copy; 2024 Bronislav Veprintsev
