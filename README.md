@@ -1,4 +1,4 @@
-# Bronislav Veprintsev (BronkstoneBro) 👋
+# Hi, I'm Bronislav Veprintsev 👋
 
 ```python
 class AboutMe:
