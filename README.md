@@ -34,6 +34,8 @@ Welcome to my GitHub profile!
 
 Here are some of my projects:
 
+https://github.com/BronkstoneBro/task-manager
+
 https://github.com/BronkstoneBro/app_django_shop
 
 Feel free to explore my repositories and check out my latest work!
