@@ -34,6 +34,10 @@ Welcome to my GitHub profile!
 
 Here are some of my projects:
 
+https://github.com/BronkstoneBro/py-fastapi-online-cinema
+
+https://github.com/BronkstoneBro/Library-API-Service
+
 https://github.com/BronkstoneBro/task-manager
 
 https://github.com/BronkstoneBro/SkyGate-Airport-API
