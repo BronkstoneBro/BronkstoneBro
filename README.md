@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 ## Currently Working On
 
 - Various Django projects
-- Mastering FastAPI
+- FastAPI
 
 ## Learning
 
