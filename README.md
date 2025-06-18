@@ -10,8 +10,14 @@ Welcome to my GitHub profile!
 
 ## Currently Working On
 
-- Various Django projects
+- Python 3.12 & OOP
+- Django & Django REST Framework
 - FastAPI
+- PostgreSQL & SQLite
+- Docker & Docker Compose
+- Selenium (web scraping)
+- Front-end basics: HTML, CSS, Bootstrap, JavaScript
+- Networking & Security: HTTP, SSL/TLS
 
 ## Learning
 
