@@ -11,13 +11,17 @@ Welcome to my GitHub profile!
 ## Currently Working On
 
 - Python 3.12 & OOP
-- Django & Django REST Framework
-- FastAPI
-- PostgreSQL & SQLite
-- Docker & Docker Compose
-- Selenium (web scraping)
-- Front-end basics: HTML, CSS, Bootstrap, JavaScript
-- Networking & Security: HTTP, SSL/TLS
+- Web Frameworks: Django, Django Rest Frameworks, FastAPI
+- Databases: PostgreSQL, SQLite
+- Front-end : HTML, CSS, Bootstrap, JavaScript (Basic)
+- Web Scraping: Selenium, BeautifulSoup
+- DevOps: Docker, docker-compose, GitHub Actions
+- Networkin & Security: HTTP, SSL/TLS, OAuth2, JWT
+- Tools: Git, GitHub, Pytest, Unittest, Debugger
+- Testing: Unit testing, integratio, testing, mocking
+- CI/CD: GitHub Actions
+- Patterns & Principles: SOLID, DRY
+
 
 ## Learning
 
