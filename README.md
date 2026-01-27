@@ -58,4 +58,4 @@ Feel free to explore my repositories and check out my latest work!
 
 ---
 
-&copy; 2025 Bronislav Veprintsev
+&copy; 2026 Bronislav Veprintsev
