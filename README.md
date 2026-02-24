@@ -8,28 +8,6 @@ Welcome to my GitHub profile!
 - 💼 **Role:** Python Developer
 - 🎯 **Interests:** Programming, Learning English, Open Source, Gaming
 
-## Currently Working On
-
-- Python 3.12 & OOP
-- Web Frameworks: Django, Django Rest Frameworks, FastAPI
-- Databases: PostgreSQL, SQLite
-- Front-end : HTML, CSS, Bootstrap, JavaScript (Basic)
-- Web Scraping: Selenium, BeautifulSoup
-- DevOps: Docker, docker-compose, GitHub Actions
-- Networking & Security: HTTP, SSL/TLS, OAuth2, JWT
-- Tools: Git, GitHub, Pytest, Unittest, Debugger
-- Testing: Unit testing, integration testing, mocking
-- CI/CD: GitHub Actions
-- Patterns & Principles: SOLID, DRY
-
-
-## Learning
-
-- Advanced Python
-- System Design
-- English Language
-
-
 ## Skills
 
 **Languages:**
