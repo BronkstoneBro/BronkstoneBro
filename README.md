@@ -70,6 +70,14 @@ Welcome to my GitHub profile!
 
 Here are some of my projects:
 
+### ⛅ [Weather Scraper](https://github.com/BronkstoneBro/weather-scraper)
+Web scraper for collecting weather data from various sources.
+**Tech Stack:** Python, Selenium, BeautifulSoup
+
+### ⌨️ [TypeForge](https://github.com/BronkstoneBro/typeforge)
+Automated browser testing and performance monitoring tool with system metrics tracking.
+**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, Selenium, Playwright, Docker
+
 ### 🎬 [Online Cinema API](https://github.com/BronkstoneBro/py-fastapi-online-cinema)
 RESTful API for an online cinema platform with movies, genres, actors management, and user reviews.
 **Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pydantic
@@ -89,14 +97,6 @@ Task management application with user authentication and CRUD operations.
 ### 🛒 [Django Shop](https://github.com/BronkstoneBro/app_django_shop)
 E-commerce platform with product catalog, shopping cart, and order processing.
 **Tech Stack:** Django, PostgreSQL, Bootstrap, JavaScript
-
-### ⛅ [Weather Scraper](https://github.com/BronkstoneBro/weather-scraper)
-Web scraper for collecting weather data from various sources.
-**Tech Stack:** Python, Selenium, BeautifulSoup
-
-### ⌨️ [TypeForge](https://github.com/BronkstoneBro/typeforge)
-Touch typing training application to improve typing speed and accuracy.
-**Tech Stack:** Python, Tkinter
 
 Feel free to explore my repositories and check out my latest work!
 
