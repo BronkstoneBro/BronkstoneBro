@@ -1,12 +1,9 @@
-# Hi there, I'm Bronislav  👋
-
-Welcome to my GitHub profile!
+# Bronislav Veprintsev
+**Python Backend Developer** specializing in building scalable REST APIs, web scraping solutions, and cloud-based applications.
 
 ## About Me
 
-- 🌍 **Location:** Odessa, Ukraine
-- 💼 **Role:** Python Developer
-- 🎯 **Interests:** Programming, Learning English, Open Source, Gaming
+Python Backend Developer with expertise in building RESTful APIs, microservices, and automation tools. Experienced in Django, FastAPI, AWS Lambda, and containerized deployments. Passionate about clean code, system design, and contributing to open-source projects.
 
 ## Skills
 
@@ -42,15 +39,7 @@ Welcome to my GitHub profile!
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Reach Me At
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bronkstonebro) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronislav-veprintsev-4828202a3/)
-
-
-
-## Projects
-
-Here are some of my projects:
+## Featured Projects
 
 ### ⛅ [Weather Scraper](https://github.com/BronkstoneBro/weather-scraper)
 Web scraper for collecting weather data from various sources.
@@ -80,7 +69,9 @@ Task management application with user authentication and CRUD operations.
 E-commerce platform with product catalog, shopping cart, and order processing.
 **Tech Stack:** Django, PostgreSQL, Bootstrap, JavaScript
 
-Feel free to explore my repositories and check out my latest work!
+## Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bronkstonebro) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronislav-veprintsev-4828202a3/)
 
 ---
 
