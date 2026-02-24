@@ -44,6 +44,10 @@ Welcome to my GitHub profile!
 
 Here are some of my projects:
 
+https://github.com/BronkstoneBro/weather-scraper
+
+https://github.com/BronkstoneBro/typeforge
+
 https://github.com/BronkstoneBro/py-fastapi-online-cinema
 
 https://github.com/BronkstoneBro/Library-API-Service
