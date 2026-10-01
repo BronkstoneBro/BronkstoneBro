@@ -69,10 +69,6 @@ Task management application with user authentication and CRUD operations.
 E-commerce platform with product catalog, shopping cart, and order processing.
 **Tech Stack:** Django, PostgreSQL, Bootstrap, JavaScript
 
-## Connect With Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bronkstonebro) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronislav-veprintsev-4828202a3/)
-
 ---
 
 &copy; 2026 Bronislav Veprintsev
