@@ -1,78 +1,96 @@
-# Bronislav Veprintsev
-**Python Backend Developer** specializing in building scalable REST APIs, web scraping solutions, and cloud-based applications.
+<h1 align="center">Bronislav Veprintsev</h1>
 
-## About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Building+APIs+%26+Automation+Tools" alt="Typing SVG" />
+</p>
 
-Python Backend Developer with expertise in building RESTful APIs, microservices, and automation tools. Experienced in Django, FastAPI, AWS Lambda, and containerized deployments. Passionate about clean code, system design, and contributing to open-source projects.
-
-## Skills
-
-**Languages:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frameworks & Libraries:**
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=alembic&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-%2360A839.svg?style=for-the-badge&logo=scrapy&logoColor=white)
-
-**Databases:**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Frontend:**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**DevOps & Tools:**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
-**Testing:**
-
-![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/unittest-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
-**Security & Authentication:**
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Operating Systems:**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## Featured Projects
-
-### ⛅ [Weather Scraper](https://github.com/BronkstoneBro/weather-scraper)
-Web scraper for collecting weather data from various sources.
-**Tech Stack:** Python, Selenium, BeautifulSoup
-
-### ⌨️ [TypeForge](https://github.com/BronkstoneBro/typeforge)
-Automated browser testing and performance monitoring tool with system metrics tracking.
-**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, Selenium, Playwright, Docker
-
-### 🎬 [Online Cinema API](https://github.com/BronkstoneBro/py-fastapi-online-cinema)
-RESTful API for an online cinema platform with movies, genres, actors management, and user reviews.
-**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pydantic
-
-### 📚 [Library API Service](https://github.com/BronkstoneBro/Library-API-Service)
-Library management system API with books catalog, borrowing system, and user management.
-**Tech Stack:** Django REST Framework, PostgreSQL, JWT Authentication
-
-### ✈️ [SkyGate Airport API](https://github.com/BronkstoneBro/SkyGate-Airport-API)
-Airport management system with flights, routes, airplanes, and crew scheduling.
-**Tech Stack:** Django REST Framework, PostgreSQL, Docker, Celery, Redis
-
-### ✅ [Task Manager](https://github.com/BronkstoneBro/task-manager)
-Task management application with user authentication and CRUD operations.
-**Tech Stack:** Django, SQLite, Bootstrap
-
-### 🛒 [Django Shop](https://github.com/BronkstoneBro/app_django_shop)
-E-commerce platform with product catalog, shopping cart, and order processing.
-**Tech Stack:** Django, PostgreSQL, Bootstrap, JavaScript
-
-## Connect With Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bronkstonebro) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronislav-veprintsev-4828202a3/)
+<p align="center">
+<em>Scalable REST APIs · AI Integrations · Microservices · Web Scraping · Cloud Solutions</em>
+</p>
 
 ---
 
-&copy; 2026 Bronislav Veprintsev
+## Tech Stack
+
+<table>
+<tr>
+<td width="200"><b>Languages</b></td>
+<td>Python · TypeScript · JavaScript</td>
+</tr>
+<tr>
+<td><b>AI & LLM</b></td>
+<td>LangChain · LangGraph · OpenAI · Whisper API · Vapi</td>
+</tr>
+<tr>
+<td><b>AI Techniques</b></td>
+<td>RAG · Multi-Agent Systems · Prompt Engineering · Conversational Memory · Vector Search · Structured Outputs · Speech-to-Text · Text-to-Speech</td>
+</tr>
+<tr>
+<td><b>AI-Assisted Dev</b></td>
+<td>Codex · Cursor · Claude Code</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>FastAPI · Django · Django REST Framework · Flask · Celery · Granian · Gunicorn</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>React · HTML · CSS · Bootstrap · JavaScript</td>
+</tr>
+<tr>
+<td><b>ORM & Data</b></td>
+<td>SQLAlchemy · Alembic · Pydantic · Pandas</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>PostgreSQL · MongoDB · Redis · SQLite</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>Docker · AWS (Lambda · SQS · S3 · RDS · Elastic Beanstalk · CloudWatch)</td>
+</tr>
+<tr>
+<td><b>Web Scraping</b></td>
+<td>Selenium · Playwright · Scrapy · BeautifulSoup</td>
+</tr>
+<tr>
+<td><b>Testing</b></td>
+<td>PyTest</td>
+</tr>
+<tr>
+<td><b>Integrations</b></td>
+<td>Stripe · SendGrid · AWS SES · Swagger · i18next</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+### [TypeForge](https://github.com/BronkstoneBro/typeforge)
+> Live benchmark tool comparing Selenium vs Playwright performance on real typing tests with CPU/memory monitoring
+
+`Python` `FastAPI` `Selenium` `Playwright`
+
+**Article:** [Selenium vs Playwright: Live Benchmark on Monkeytype](https://sysgears.com/articles/selenium-vs-playwright-live-benchmark/)
+
+---
+
+### [Weather Scraper](https://github.com/BronkstoneBro/weather-scraper)
+> Dual-engine weather data scraper comparing BeautifulSoup and Scrapy approaches on BBC Weather
+
+`Python` `BeautifulSoup` `Scrapy`
+
+**Article:** [BeautifulSoup vs Scrapy: Weather Scraper Comparison](https://sysgears.com/articles/beautifulsoup-vs-scrapy-weather-scraper-comparison/)
+
+---
+
+## Other Projects
+
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| **[Online Cinema API](https://github.com/BronkstoneBro/py-fastapi-online-cinema)** | RESTful API for cinema platform with movies, genres, actors, reviews | FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT · Docker |
+| **[SkyGate Airport API](https://github.com/BronkstoneBro/SkyGate-Airport-API)** | Airport management: flights, routes, crew scheduling | Django REST · PostgreSQL · JWT · Swagger · Docker |
+| **[Library API Service](https://github.com/BronkstoneBro/Library-API-Service)** | Library management with borrowing and payments | Django REST · PostgreSQL · Redis · Celery · Stripe · Docker |
+| **[Task Manager](https://github.com/BronkstoneBro/task-manager)** | Task management with authentication | Django · SQLite · Bootstrap · Docker |
+| **[Django Shop](https://github.com/BronkstoneBro/app_django_shop)** | E-commerce with cart and order processing | Django · PostgreSQL |
