@@ -67,30 +67,79 @@
 
 ## Featured Projects
 
-### [TypeForge](https://github.com/BronkstoneBro/typeforge)
-> Live benchmark tool comparing Selenium vs Playwright performance on real typing tests with CPU/memory monitoring
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Python` `FastAPI` `Selenium` `Playwright`
+### <a href="https://github.com/BronkstoneBro/typeforge">TypeForge</a>
 
-**Article:** [Selenium vs Playwright: Live Benchmark on Monkeytype](https://sysgears.com/articles/selenium-vs-playwright-live-benchmark/)
+Live benchmark tool comparing **Selenium vs Playwright** performance on real typing tests with CPU/memory monitoring
 
----
+<sub>Python · FastAPI · Selenium · Playwright</sub>
 
-### [Weather Scraper](https://github.com/BronkstoneBro/weather-scraper)
-> Dual-engine weather data scraper comparing BeautifulSoup and Scrapy approaches on BBC Weather
+<a href="https://sysgears.com/articles/selenium-vs-playwright-live-benchmark/">Read the article →</a>
 
-`Python` `BeautifulSoup` `Scrapy`
+</td>
+<td width="50%" valign="top">
 
-**Article:** [BeautifulSoup vs Scrapy: Weather Scraper Comparison](https://sysgears.com/articles/beautifulsoup-vs-scrapy-weather-scraper-comparison/)
+### <a href="https://github.com/BronkstoneBro/weather-scraper">Weather Scraper</a>
+
+Dual-engine weather data scraper comparing **BeautifulSoup vs Scrapy** approaches on BBC Weather
+
+<sub>Python · BeautifulSoup · Scrapy</sub>
+
+<a href="https://sysgears.com/articles/beautifulsoup-vs-scrapy-weather-scraper-comparison/">Read the article →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Other Projects
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **[Online Cinema API](https://github.com/BronkstoneBro/py-fastapi-online-cinema)** | RESTful API for cinema platform with movies, genres, actors, reviews | FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT · Docker |
-| **[SkyGate Airport API](https://github.com/BronkstoneBro/SkyGate-Airport-API)** | Airport management: flights, routes, crew scheduling | Django REST · PostgreSQL · JWT · Swagger · Docker |
-| **[Library API Service](https://github.com/BronkstoneBro/Library-API-Service)** | Library management with borrowing and payments | Django REST · PostgreSQL · Redis · Celery · Stripe · Docker |
-| **[Task Manager](https://github.com/BronkstoneBro/task-manager)** | Task management with authentication | Django · SQLite · Bootstrap · Docker |
-| **[Django Shop](https://github.com/BronkstoneBro/app_django_shop)** | E-commerce with cart and order processing | Django · PostgreSQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/BronkstoneBro/py-fastapi-online-cinema">Online Cinema API</a>**<br>
+RESTful API for cinema platform with movies, genres, actors, reviews<br>
+<sub>FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT · Docker</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/BronkstoneBro/SkyGate-Airport-API">SkyGate Airport API</a>**<br>
+Airport management: flights, routes, crew scheduling<br>
+<sub>Django REST · PostgreSQL · JWT · Swagger · Docker</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/BronkstoneBro/Library-API-Service">Library API Service</a>**<br>
+Library management with borrowing and payments<br>
+<sub>Django REST · PostgreSQL · Redis · Celery · Stripe · Docker</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/BronkstoneBro/task-manager">Task Manager</a>**<br>
+Task management with authentication<br>
+<sub>Django · SQLite · Bootstrap · Docker</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/BronkstoneBro/app_django_shop">Django Shop</a>**<br>
+E-commerce with cart and order processing<br>
+<sub>Django · PostgreSQL</sub>
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
